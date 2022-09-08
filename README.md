@@ -1,3 +1,3 @@
 # DemocracyPrivacyPolicy
 
-Privacy Policy
+Privacy Policy for the Democracy app
