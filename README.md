@@ -1,0 +1,3 @@
+# DemocracyPrivacyPolicy
+
+Privacy Policy
